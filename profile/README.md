@@ -4,11 +4,13 @@ This repository serves as a central hub for Android development projects underta
 
 **Getting Started**
 
+
 1. **Prerequisites:**
    - Ensure you have a development environment set up with the necessary tools, including:
      - Android Studio (latest version recommended) ([https://developer.android.com/studio](https://developer.android.com/studio))
      - An active GitHub account ([https://github.com/](https://github.com/))
    - Familiarity with Android development concepts (Kotlin, Android SDK, etc.) is highly beneficial.
+
 
 2. **Contributing:**
    - We welcome contributions from the Android development community! To get involved:
@@ -19,11 +21,13 @@ This repository serves as a central hub for Android development projects underta
    - Please adhere to the coding style guidelines outlined in the `.editorconfig` file (if applicable).
    - Consider including unit tests for your contributions to ensure code quality.
 
+
 3. **Available Projects:**
    - This repository may contain various subdirectories or separate repositories, each representing a distinct Android project.
    - Explore the project structure to find specific codebases that align with your development needs.
 
 **Project Structure (Example)**
+
 
 ```
 hobitorg/
